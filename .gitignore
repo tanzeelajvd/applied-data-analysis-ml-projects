@@ -1,0 +1,20 @@
+# === DATASETS (raw & derived) ===
+**/dataset/
+**/datasets/
+*.csv
+
+# === TRAINED MODELS ===
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# === PYTHON NOISE ===
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# === OS / WSL NOISE ===
+*Zone.Identifier
+.DS_Store
+
