@@ -55,3 +55,102 @@ During this analysis task, we aim to gain valuable insights into the dataset of 
 
 These questions will help us gain insights into the factors affecting the prices of used cars in India and understand the relative importance of different features in the regression model.
 
+---
+## Analysis Workflow
+
+The notebook follows a structured exploratory workflow:
+
+1. **Data Loading**
+   - Reading the used car dataset
+   - Initial inspection of columns and data types
+
+2. **Data Cleaning**
+   - Handling missing values
+   - Removing or correcting inconsistent entries
+   - Formatting numerical and categorical variables
+
+3. **Exploratory Data Analysis (EDA)**
+   - Distribution analysis of price, mileage, and age
+   - Feature-wise comparison using visualizations
+   - Correlation analysis between numerical features
+
+4. **Insights and Observations**
+   - Key factors affecting car prices
+   - Patterns related to depreciation and usage
+   - Summary of actionable insights
+
+---
+
+
+## Repository Structure
+
+```
+
+03_used_car_dataset_analysis/
+│
+├── dataset/                     # Dataset directory (ignored in Git)
+│   └── .gitkeep
+├── Used_Car_Dataset_Analysis.ipynb
+├── requirements.txt
+└── README.md
+
+````
+
+---
+
+## How to Run
+
+1. Clone the main repository:
+   ```bash
+   git clone git@github.com:tanzeelajvd/applied-ml-projects.git
+   ````
+
+2. Navigate to this project:
+
+   ```bash
+   cd applied-ml-projects/03_used_car_dataset_analysis
+   ```
+
+3. (Recommended) Create and activate a virtual environment:
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+   ```
+
+4. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Launch the notebook:
+
+   ```bash
+   jupyter notebook Used_Car_Dataset_Analysis.ipynb
+   ```
+
+---
+
+## Technologies Used
+
+* Python
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Jupyter Notebook
+
+---
+
+## Key Takeaways
+
+* Vehicle price is influenced by a combination of age, mileage, and specifications
+* Exploratory analysis provides valuable insights before model building
+* Clean EDA is essential for reliable downstream machine learning tasks
+
+---
+
+## Author
+
+**Tanzeela Javid**
+Applied Machine Learning · Data Analysis · AI Systems
+
