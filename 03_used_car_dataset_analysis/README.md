@@ -102,13 +102,13 @@ The notebook follows a structured exploratory workflow:
 
 1. Clone the main repository:
    ```bash
-   git clone git@github.com:tanzeelajvd/applied-ml-projects.git
+   git clone git@github.com:tanzeelajvd/applied-data-analysis-ml-projects.git
    ````
 
 2. Navigate to this project:
 
    ```bash
-   cd applied-ml-projects/03_used_car_dataset_analysis
+   cd applied-data-analysis-ml-projects/03_used_car_dataset_analysis
    ```
 
 3. (Recommended) Create and activate a virtual environment:
