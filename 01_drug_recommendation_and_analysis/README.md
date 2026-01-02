@@ -86,13 +86,13 @@ dataset/
 
 1. Clone the main repository:
    ```bash
-   git clone git@github.com:tanzeelajvd/applied-ml-projects.git
+   git clone git@github.com:tanzeelajvd/applied-data-analysis-ml-projects.git
    ````
 ---
 2. Navigate to the project directory:
 
    ```bash
-   cd applied-ml-projects/01_drug_recommendation_and_analysis
+   cd applied-data-analysis-ml-projects/01_drug_recommendation_and_analysis
    ```
 
 3. (Recommended) Create a virtual environment:
@@ -146,5 +146,6 @@ It does **not** provide medical or clinical recommendations.
 
 **Tanzeela Javid**
 Applied Machine Learning · Data Analysis · AI Systems
+
 
 
