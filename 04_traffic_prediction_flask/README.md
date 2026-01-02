@@ -95,8 +95,8 @@ To run the project, place the datasets in the project root or the appropriate lo
 
 ### 1. Clone the repository
 ```bash
-git clone git@github.com:tanzeelajvd/applied-ml-projects.git
-cd applied-ml-projects/04_traffic_prediction_flask
+git clone git@github.com:tanzeelajvd/applied-data-analysis-ml-projects.git
+cd applied-data-analysis-ml-projects/04_traffic_prediction_flask
 ````
 
 ### 2. Create and activate a virtual environment (recommended)
@@ -193,3 +193,4 @@ Predictions should not be used for real-world traffic control decisions.
 
 **Tanzeela Javid**
 Applied Machine Learning · Data Analysis · AI Systems
+
