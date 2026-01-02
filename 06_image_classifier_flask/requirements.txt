@@ -1,4 +1,6 @@
-flask
-tensorflow
 numpy
+tensorflow
+flask
 pillow
+werkzeug
+jupyter
