@@ -88,13 +88,13 @@ datasets/
 
 1. Clone the main repository:
    ```bash
-   git clone git@github.com:tanzeelajvd/applied-ml-projects.git
+   git clone git@github.com:tanzeelajvd/applied-data-analysis-ml-projects.git
    ````
 
 2. Navigate to this project:
 
    ```bash
-   cd applied-ml-projects/02_financial_fraud_detection_system
+   cd applied-data-analysis-ml-projects/02_financial_fraud_detection_system
    ```
 
 3. (Recommended) Create and activate a virtual environment:
@@ -154,6 +154,7 @@ It is **not** intended for real-world financial decision-making.
 
 **Tanzeela Javid**
 Applied Machine Learning · Data Analysis · AI Systems
+
 
 
 
