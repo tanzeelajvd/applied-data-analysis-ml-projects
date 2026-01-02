@@ -87,8 +87,8 @@ dataset/
 1. Clone the main repository:
    ```bash
    git clone git@github.com:tanzeelajvd/applied-ml-projects.git
-````
-
+   ````
+---
 2. Navigate to the project directory:
 
    ```bash
@@ -146,4 +146,5 @@ It does **not** provide medical or clinical recommendations.
 
 **Tanzeela Javid**
 Applied Machine Learning · Data Analysis · AI Systems
+
 
